@@ -112,7 +112,7 @@
         "title": "VU SUR",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 3,
+        "items_per_row": 4,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -120,6 +120,21 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
+      }
+    },
+    "image_with_text_overlay_Rbb8ii": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/benefices_produit_desktop.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "main": {
@@ -226,6 +241,7 @@
   "order": [
     "image_with_text_overlay_Kqwhxr",
     "logo_list_xaYb3j",
+    "image_with_text_overlay_Rbb8ii",
     "main"
   ]
 }
