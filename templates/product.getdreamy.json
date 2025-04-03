@@ -68,7 +68,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
-            "logo_width": 180,
+            "logo_width": 290,
             "link": ""
           }
         },
@@ -76,7 +76,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Cosmopolitan__revista__logotipo_1ca99217-e8ce-474b-9c2f-2228e8795ad6.png",
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -84,7 +84,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -92,7 +92,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/allure-181838.png",
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         }
@@ -103,7 +103,9 @@
         "logo_4LBP8U",
         "logo_Fc4bcC"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "h2 {font-size: 20px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
