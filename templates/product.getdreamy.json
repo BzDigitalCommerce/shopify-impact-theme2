@@ -165,13 +165,29 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_83w7zz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Livraison_suivi.png",
+            "alignment": "start",
+            "max_width": 440
+          }
+        },
+        "liquid_yfjeiy": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .delivery-estimate {\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    background-color: #e8fdf3;\n    border-radius: 10px;\n    padding: 16px;\n    font-family: inherit;\n    color: #1d4b43;\n    font-size: 14px;\n  }\n\n  .delivery-block {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .delivery-icon svg {\n    width: 20px;\n    height: 20px;\n    stroke: #1d4b43;\n  }\n\n  .delivery-label {\n    font-size: 13px;\n    color: #1d4b43;\n  }\n\n  .delivery-value {\n    font-weight: 600;\n    font-size: 15px;\n    color: #1d4b43;\n  }\n\n  .delivery-arrow {\n    font-size: 18px;\n    margin: 0 12px;\n    color: #1d4b43;\n  }\n</style>\n\n<script>\n  document.addEventListener('DOMContentLoaded', function () {\n    const mois = [\"janv.\", \"févr.\", \"mars\", \"avril\", \"mai\", \"juin\", \"juil.\", \"août\", \"sept.\", \"oct.\", \"nov.\", \"déc.\"];\n\n    const today = new Date();\n    const deliveryStart = new Date();\n    const deliveryEnd = new Date();\n    deliveryStart.setDate(today.getDate() + 7);\n    deliveryEnd.setDate(today.getDate() + 8);\n\n    const formatDate = (date) => {\n      return `${date.getDate()} ${mois[date.getMonth()]}`;\n    };\n\n    const deliveryRange = `${formatDate(deliveryStart)}-${formatDate(deliveryEnd)}`;\n    document.getElementById('delivery-date').textContent = deliveryRange;\n  });\n</script>\n\n<div class=\"delivery-estimate\">\n  <div class=\"delivery-block\">\n    <div class=\"delivery-icon\">\n      <svg fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n        <path stroke-width=\"2\" d=\"M12 8v4l3 2m6-2a9 9 0 11-18 0 9 9 0 0118 0z\" />\n      </svg>\n    </div>\n    <div>\n      <div class=\"delivery-label\">Commande</div>\n      <div class=\"delivery-value\">Aujourd'hui</div>\n    </div>\n  </div>\n\n  <span class=\"delivery-arrow\">→</span>\n\n  <div class=\"delivery-block\">\n    <div class=\"delivery-icon\">\n      <svg fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\">\n        <path stroke-width=\"2\" d=\"M8 7V3m8 4V3m-9 8h10m-13 9h16a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v11a2 2 0 002 2z\" />\n      </svg>\n    </div>\n    <div>\n      <div class=\"delivery-label\">Livraison</div>\n      <div class=\"delivery-value\" id=\"delivery-date\">11-12 avril</div>\n    </div>\n  </div>\n</div>"
+          }
         }
       },
       "block_order": [
         "image_dyd9e8",
         "title",
         "liquid_34ydbG",
-        "buy_buttons"
+        "buy_buttons",
+        "image_83w7zz",
+        "liquid_yfjeiy"
       ],
       "settings": {
         "full_width": true,
