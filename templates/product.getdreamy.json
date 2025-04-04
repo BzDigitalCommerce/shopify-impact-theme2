@@ -353,10 +353,11 @@
     "multi_column_MtVk7R": {
       "type": "multi-column",
       "blocks": {
-        "item_RCMM4e": {
+        "item_KLNXbA": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "video": "shopify://files/videos/vid4OFF.mp4",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -365,25 +366,40 @@
             "link_style": "link"
           }
         },
-        "item_HyC7dF": {
+        "item_RCMM4e": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "video": "shopify://files/videos/vid1OFF.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_Kc7bPK": {
+        "item_jAPqyY": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
+            "video": "shopify://files/videos/vid3OFF.mp4",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6VC8rJ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/vid2OFF.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -391,9 +407,10 @@
         }
       },
       "block_order": [
+        "item_KLNXbA",
         "item_RCMM4e",
-        "item_HyC7dF",
-        "item_Kc7bPK"
+        "item_jAPqyY",
+        "item_6VC8rJ"
       ],
       "settings": {
         "full_width": true,
@@ -401,9 +418,9 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Nos clientes adorent ... phrase + vidéos",
+        "title": "+ de 100,000 clientes convaincues",
         "content": "",
-        "background": "#ffffff",
+        "background": "#f9f9f9",
         "background_gradient": "",
         "text_color": ""
       }
