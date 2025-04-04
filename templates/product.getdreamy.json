@@ -589,7 +589,7 @@
             "image": "shopify://shop_images/everart-image_2.png",
             "media_width": 50,
             "media_position": "start",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
@@ -597,7 +597,7 @@
             "content": "<p>Notre crème GET DREAMY offre des résultats visibles dès les premières applications, avec des bienfaits raffermissants qui s’intensifient au fil du temps.</p><p>Sa formule unique hydrate en profondeur, raffermit et lisse la peau du ventre pendant la nuit, réduisant visiblement le relâchement cutané et redonnant élasticité et tonicité à la peau.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#ffffff",
+            "background": "#f1f1f1",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -610,7 +610,7 @@
         "image_JTqRNJ"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "spacing": "none"
       }
     },
@@ -623,7 +623,7 @@
             "image": "shopify://shop_images/everart-image_2_5948a39d-ce59-4496-89b9-4e44f13844f8.png",
             "media_width": 50,
             "media_position": "end",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
@@ -631,7 +631,7 @@
             "content": "<p>Les signes de relâchement, de manque de fermeté ou de tonicité s’estompent nuit après nuit.</p><p>Notre soin agit pendant votre sommeil pour lisser, raffermir et redonner élasticité et douceur à la peau du ventre.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#ffffff",
+            "background": "#f1f1f1",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -644,42 +644,38 @@
         "image_BnNQ9V"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "spacing": "none"
       }
     },
-    "media_with_text_WRTy3t": {
-      "type": "media-with-text",
+    "multiple_images_with_text_8fwgJy": {
+      "type": "multiple-images-with-text",
       "blocks": {
-        "image_aMWcdB": {
-          "type": "image",
+        "item_CdHKrn": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/GETDREAMY_3.png",
-            "media_width": 35,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
+            "image": "shopify://shop_images/GETDREAMY_4.png",
+            "image_rotation_degrees": -2,
             "subheading": "",
             "title": "",
-            "content": "<h4>Essayez Get-Dreamy en toute confiance avec notre garantie de remboursement de 90 jours !</h4><p>Les spécialistes de la peau, les dermatologues et nos clients en témoignent: Get-Dreamy offre des résultats visibles !<br/><br/>Convaincus de son efficacité, nous vous proposons une garantie satisfait ou remboursé pendant 90 jours.<br/><br/>Si vous n’obtenez pas les résultats escomptés, nous vous remboursons intégralement.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#c9b0d7",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "content": "<h4>Essayez GET-DREAMY en toute confiance avec notre garantie de remboursement de 90 jours !</h4><p>Les spécialistes de la peau, les dermatologues et nos clients en témoignent: GET-DREAMY offre des résultats visibles !<br/><br/>Convaincus de son efficacité, nous vous proposons une garantie satisfait ou remboursé pendant 90 jours.<br/><br/>Si vous n’obtenez pas les résultats escomptés, nous vous remboursons intégralement.</p>",
+            "button_url": "",
+            "button_text": ""
           }
         }
       },
       "block_order": [
-        "image_aMWcdB"
+        "item_CdHKrn"
       ],
       "settings": {
         "full_width": false,
-        "spacing": "small"
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "#c9b0d7",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -696,6 +692,6 @@
     "image_with_text_overlay_iVcUF9",
     "media_with_text_gY4X3t",
     "media_with_text_anLcQz",
-    "media_with_text_WRTy3t"
+    "multiple_images_with_text_8fwgJy"
   ]
 }
