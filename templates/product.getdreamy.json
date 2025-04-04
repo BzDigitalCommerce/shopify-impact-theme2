@@ -12,53 +12,41 @@
     "image_with_text_overlay_Kqwhxr": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_L9xH8c": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_FmpEf3": {
+        "heading_qjCHkq": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_WdAznJ": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "Ventre relâché et peau froissée ? Raffermissez-la pendant la nuit !",
+            "heading_tag": "h2"
           }
         },
         "button_EXbif6": {
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "lg",
-            "text": "Button text",
-            "url": "",
-            "background": "",
-            "text_color": ""
+            "size": "xl",
+            "text": "Acheter maintenant!",
+            "url": "shopify://products/get-dreamy-creme-de-nuit-raffermissante",
+            "background": "#c9b0d7",
+            "text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "subheading_L9xH8c",
-        "heading_FmpEf3",
-        "richtext_WdAznJ",
+        "heading_qjCHkq",
         "button_EXbif6"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
+        "image": "shopify://shop_images/benefices_produit_mobile_7bec346d-9ebd-4fcc-b832-752118a37085.png",
+        "mobile_image": "shopify://shop_images/benefices_produit_mobile.png",
+        "mobile_text_position": "place-self-start text-start",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 50
+        "overlay_opacity": 19
       }
     },
     "logo_list_xaYb3j": {
