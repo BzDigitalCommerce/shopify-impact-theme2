@@ -47,8 +47,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefices_produit_desktop_2.png",
-        "mobile_image": "shopify://shop_images/benefices_produit_mobile_2.png",
+        "image": "shopify://shop_images/benefices_produit_desktop_3.png",
+        "mobile_image": "shopify://shop_images/benefices_produit_mobile_3.png",
         "mobile_text_position": "place-self-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
@@ -347,7 +347,7 @@
         "content": "",
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#000000"
       }
     },
     "multi_column_MtVk7R": {
@@ -420,9 +420,9 @@
         "subheading": "★★★★★ Noté 4.9/5",
         "title": "+ de 100,000 clientes convaincues",
         "content": "",
-        "background": "#f9f9f9",
+        "background": "#f1f1f1",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#1a1a1a"
       }
     },
     "rich_text_8cdhYF": {
@@ -586,19 +586,20 @@
         "image_JTqRNJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/everart-image_2.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Tout-en-un",
+            "content": "<p>Notre crème GET DREAMY offre des résultats visibles dès les premières applications, avec des bienfaits raffermissants qui s’intensifient au fil du temps.</p><p>Sa formule unique hydrate en profondeur, raffermit et lisse la peau du ventre pendant la nuit, réduisant visiblement le relâchement cutané et redonnant élasticité et tonicité à la peau.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -609,8 +610,8 @@
         "image_JTqRNJ"
       ],
       "settings": {
-        "full_width": false,
-        "spacing": "small"
+        "full_width": true,
+        "spacing": "none"
       }
     },
     "media_with_text_anLcQz": {
@@ -619,19 +620,20 @@
         "image_BnNQ9V": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/everart-image_2_5948a39d-ce59-4496-89b9-4e44f13844f8.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Expérimentez une transformation visible de votre peau",
+            "content": "<p>Les signes de relâchement, de manque de fermeté ou de tonicité s’estompent nuit après nuit.</p><p>Notre soin agit pendant votre sommeil pour lisser, raffermir et redonner élasticité et douceur à la peau du ventre.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -642,8 +644,8 @@
         "image_BnNQ9V"
       ],
       "settings": {
-        "full_width": false,
-        "spacing": "small"
+        "full_width": true,
+        "spacing": "none"
       }
     },
     "media_with_text_WRTy3t": {
@@ -652,17 +654,18 @@
         "image_aMWcdB": {
           "type": "image",
           "settings": {
-            "media_width": 50,
+            "image": "shopify://shop_images/GETDREAMY_3.png",
+            "media_width": 35,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "",
+            "content": "<h4>Essayez Get-Dreamy en toute confiance avec notre garantie de remboursement de 90 jours !</h4><p>Les spécialistes de la peau, les dermatologues et nos clients en témoignent: Get-Dreamy offre des résultats visibles !<br/><br/>Convaincus de son efficacité, nous vous proposons une garantie satisfait ou remboursé pendant 90 jours.<br/><br/>Si vous n’obtenez pas les résultats escomptés, nous vous remboursons intégralement.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#c9b0d7",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
