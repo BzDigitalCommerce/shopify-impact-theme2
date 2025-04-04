@@ -383,17 +383,11 @@
     "rich_text_8cdhYF": {
       "type": "rich-text",
       "blocks": {
-        "subheading_eM3dhz": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_FfAgqd": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Raffermissez votre ventre et Lissez visiblement votre peau",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -401,12 +395,11 @@
         "richtext_9hLckB": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>La puissance de <strong>Get Dreamy</strong> réside dans sa combinaison unique d’ingrédients raffermissants, ciblés et hautement efficaces :</p>"
           }
         }
       },
       "block_order": [
-        "subheading_eM3dhz",
         "heading_FfAgqd",
         "richtext_9hLckB"
       ],
