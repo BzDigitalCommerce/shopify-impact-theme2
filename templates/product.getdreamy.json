@@ -257,7 +257,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p><strong>Virginie E.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>J’ai une peau sensible et cette crème est la seule qui agit sans irriter. Mon ventre a totalement changer, ma peau est ferme et lisse. J’adore la texture, très agréable à appliquer.</p>",
+            "content": "<p><strong>Virginie E.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>J’ai une peau sensible et cette crème est la seule qui agit sans irriter. Mon ventre a totalement changer, ma peau est ferme et lisse. J’ai totalement récuperer ma confiance en moi</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -301,13 +301,41 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_ax8PHr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_fe9224a0-d6d3-48ec-b7e5-facb8c5ec2d2.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Karine B.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>Après quelques utilisations, ma peau est beaucoup plus douce et tendue. J'avais perdu un peu de tonicité après ma grossesse, et cette crème m’aide vraiment à retrouver un ventre plus ferme</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6NyUrJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_e06c0c97-a73e-403d-a681-e6d0eb91dd24.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Yelena S.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>Je l’applique chaque soir avant de dormir depuis 3 semaines et mon ventre a totalement changer d'apparence. Ma peau est tendue, ferme. L’odeur est agréable, la texture fond sur la peau, et surtout… les résultats sont bien là !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_EaPeww",
         "item_WPfBpK",
         "item_Ak6aBt",
-        "item_696GFP"
+        "item_696GFP",
+        "item_ax8PHr",
+        "item_6NyUrJ"
       ],
       "settings": {
         "full_width": true,
@@ -386,7 +414,7 @@
         "heading_FfAgqd": {
           "type": "heading",
           "settings": {
-            "text": "Raffermissez votre ventre et Lissez visiblement votre peau",
+            "text": "Lissez et raffermissez votre visiblement peau",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -418,20 +446,20 @@
         "subheading_4drfHc": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "heading_CzfB4k": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "Chardon-Marie",
+            "heading_tag": "h2"
           }
         },
         "richtext_jLNCgc": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Antioxydant puissant qui améliore l’aspect des peaux grasses</p>"
           }
         }
       },
@@ -444,12 +472,13 @@
         "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "image_size": "sm",
+        "image": "shopify://shop_images/5_1a041a8a-1f86-47ee-ba59-6f749d59b714.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 42
       }
     },
     "image_with_text_overlay_d8JWiB": {
@@ -458,20 +487,20 @@
         "subheading_XreWcb": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "heading_rpJUHW": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "Extrait de Busserole",
+            "heading_tag": "h2"
           }
         },
         "richtext_cbGNfH": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Lisse visiblement les irrégularités grâce à sa richesse en antioxydants</p>"
           }
         }
       },
@@ -484,12 +513,13 @@
         "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "image_size": "sm",
+        "image": "shopify://shop_images/6_fb9b761c-f65d-4483-bf58-6beceeb7e6b1.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 42
       }
     },
     "image_with_text_overlay_iVcUF9": {
@@ -498,20 +528,20 @@
         "subheading_eN9nyK": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "heading_dHRbtD": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "Glycérine",
+            "heading_tag": "h2"
           }
         },
         "richtext_PQDmfG": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Actif hydratant reconnu, elle aide à retenir l’eau dans la peau, la laissant douce, souple et visiblement plus lisse</p>"
           }
         }
       },
@@ -524,12 +554,112 @@
         "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "image_size": "sm",
+        "image": "shopify://shop_images/7_fab3f135-a85c-448b-966c-2379ae05be3d.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 41
+      }
+    },
+    "media_with_text_gY4X3t": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_JTqRNJ": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_JTqRNJ"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_anLcQz": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_BnNQ9V": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BnNQ9V"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_WRTy3t": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_aMWcdB": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_aMWcdB"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     }
   },
@@ -543,6 +673,9 @@
     "rich_text_8cdhYF",
     "image_with_text_overlay_y3EP49",
     "image_with_text_overlay_d8JWiB",
-    "image_with_text_overlay_iVcUF9"
+    "image_with_text_overlay_iVcUF9",
+    "media_with_text_gY4X3t",
+    "media_with_text_anLcQz",
+    "media_with_text_WRTy3t"
   ]
 }
