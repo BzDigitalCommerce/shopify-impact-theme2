@@ -15,14 +15,14 @@
         "heading_qjCHkq": {
           "type": "heading",
           "settings": {
-            "text": "Ventre relâché et peau froissée ? Raffermissez-la pendant la nuit !",
+            "text": "Ventre relâché et peau froissée ? Raffermissez-le pendant la nuit !",
             "heading_tag": "h2"
           }
         },
         "richtext_XnaAr3": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>★★★★★ Noté 4.9/5<br/>+100'000 clientes satisfaites.</h6>"
+            "content": "<h6>★★★★★ Noté 4.9/5<br/><em>+100'000 clientes satisfaites.</em></h6>"
           }
         },
         "button_EXbif6": {
@@ -135,9 +135,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
+        "image_dyd9e8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_809.png",
+            "alignment": "start",
+            "max_width": 180
+          }
         },
         "title": {
           "type": "title",
@@ -145,55 +149,17 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
+        "liquid_34ydbG": {
+          "type": "liquid",
           "settings": {
-            "show_taxes_notice": false
+            "liquid": "<style>\n  .stock-alert {\n    display: inline-flex;\n    align-items: center;\n    padding: 6px 0;\n    border-radius: 8px;\n    font-family: inherit;\n    background: transparent; /* Fond transparent */\n  }\n\n  .dot {\n    width: 10px;\n    height: 10px;\n    background-color: #f4a300;\n    border-radius: 50%;\n    margin-right: 10px;\n    animation: pulse 1.5s infinite ease-in-out;\n    box-shadow: 0 0 8px #f4a300;\n  }\n\n  @keyframes pulse {\n    0% {\n      transform: scale(1);\n      opacity: 1;\n      box-shadow: 0 0 8px #f4a300;\n    }\n    50% {\n      transform: scale(1.3);\n      opacity: 0.6;\n      box-shadow: 0 0 12px #f4a300;\n    }\n    100% {\n      transform: scale(1);\n      opacity: 1;\n      box-shadow: 0 0 8px #f4a300;\n    }\n  }\n\n  .stock-text {\n    font-weight: 600;\n    font-size: 14px;\n    color: #000000;\n  }\n</style>\n\n<div class=\"stock-alert\">\n  <div class=\"dot\"></div>\n  <div class=\"stock-text\">Plus que 3 en stock.</div>\n</div>"
           }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -202,16 +168,9 @@
         }
       },
       "block_order": [
-        "vendor",
+        "image_dyd9e8",
         "title",
-        "badges",
-        "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
-        "variant_picker",
-        "quantity_selector",
+        "liquid_34ydbG",
         "buy_buttons"
       ],
       "settings": {
