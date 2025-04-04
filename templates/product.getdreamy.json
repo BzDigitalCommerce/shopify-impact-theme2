@@ -19,11 +19,17 @@
             "heading_tag": "h2"
           }
         },
+        "richtext_XnaAr3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h6>★★★★★ Noté 4.9/5<br/>+100'000 clientes satisfaites.</h6>"
+          }
+        },
         "button_EXbif6": {
           "type": "button",
           "settings": {
             "style": "fill",
-            "size": "xl",
+            "size": "lg",
             "text": "Acheter maintenant!",
             "url": "shopify://products/get-dreamy-creme-de-nuit-raffermissante",
             "background": "#c9b0d7",
@@ -33,6 +39,7 @@
       },
       "block_order": [
         "heading_qjCHkq",
+        "richtext_XnaAr3",
         "button_EXbif6"
       ],
       "settings": {
@@ -40,10 +47,10 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefices_produit_mobile_7bec346d-9ebd-4fcc-b832-752118a37085.png",
+        "image": "shopify://shop_images/benefices_produit_desktop_2.png",
         "mobile_image": "shopify://shop_images/benefices_produit_mobile.png",
         "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 19
