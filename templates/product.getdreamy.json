@@ -353,6 +353,32 @@
     "multi_column_MtVk7R": {
       "type": "multi-column",
       "blocks": {
+        "item_6VC8rJ": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/vid2OFF.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jAPqyY": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/vid3OFF.mp4",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_KLNXbA": {
           "type": "item",
           "settings": {
@@ -378,46 +404,20 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_jAPqyY": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/vid3OFF.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_6VC8rJ": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/vid2OFF.mp4",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
-        "item_KLNXbA",
-        "item_RCMM4e",
+        "item_6VC8rJ",
         "item_jAPqyY",
-        "item_6VC8rJ"
+        "item_KLNXbA",
+        "item_RCMM4e"
       ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "",
+        "subheading": "★★★★★ Noté 4.9/5",
         "title": "+ de 100,000 clientes convaincues",
         "content": "",
         "background": "#f9f9f9",
@@ -431,7 +431,7 @@
         "heading_FfAgqd": {
           "type": "heading",
           "settings": {
-            "text": "Lissez et raffermissez votre visiblement peau",
+            "text": "Lissez et raffermissez visiblement votre peau",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
