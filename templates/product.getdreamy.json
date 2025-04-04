@@ -253,34 +253,50 @@
         "item_EaPeww": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4_929d7b05-9809-47ff-b3ad-7d9f9beef6ce.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Virginie E.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>J’ai une peau sensible et cette crème est la seule qui agit sans irriter. Mon ventre a totalement changer, ma peau est ferme et lisse. J’adore la texture, très agréable à appliquer.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_p4MJDQ": {
+        "item_WPfBpK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_3cea368f-7356-40b6-b601-522c7fdf6994.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Sophie L.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>Depuis que j’utilise cette crème raffermissante, ça a totalement changer. Mon ventre est tonique et ma peau plus tendue. Même mon entourage a remarqué le changement, c'est radical!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_V8mjMY": {
+        "item_Ak6aBt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2_bb772e00-7444-491c-915e-76d6bf3f08e7.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Valérie C.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>Cette crème a fait des merveilles sur mon ventre. Je l’applique chaque soir et je vois une nette amélioration après deux semaines.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_696GFP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_466ab829-f4b9-4271-b2bc-64fd46a1362d.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Caroline F.  <br/></strong><em>Cliente Vérifiée </em>✔️</p><p>J’ai testé plusieurs crèmes pour raffermir mon ventre, mais celle-ci est la meilleure. Ma peau est beaucoup plus élastique et les premiers résultats ont été visible rapidement. Je recommande à 100 % ! </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -289,8 +305,9 @@
       },
       "block_order": [
         "item_EaPeww",
-        "item_p4MJDQ",
-        "item_V8mjMY"
+        "item_WPfBpK",
+        "item_Ak6aBt",
+        "item_696GFP"
       ],
       "settings": {
         "full_width": true,
