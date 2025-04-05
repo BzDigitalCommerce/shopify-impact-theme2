@@ -184,35 +184,35 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Pourquoi acheter uniquement sur notre site?",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "content": "<p>Nos produits sont uniquement disponibles sur notre site officiel.<br/>Toute vente sur des plateformes tierces, comme Amazon, concerne des contrefaçons de mauvaise qualité. Pour garantir l'authenticité et la qualité, achetez exclusivement sur notre site. Nous déclinons toute responsabilité pour les produits achetés ailleurs.</p>"
           }
         },
         "collapsible_text_xVwwqC": {
           "type": "collapsible_text",
           "settings": {
             "title": "Description",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "content": "<p>Cette crème fouettée corporelle de nuit luxueuse lisse et raffermit visiblement vos courbes pendant votre sommeil. Formulée avec du chardon-Marie pour améliorer l'apparence de la cellulite et de la peau graisseuse, des ingrédients hydratants pour nourrir intensément, et une touche de mélatonine, elle est le complément idéal à votre routine de soins du corps du soir.<br/><br/><strong>200 mL / 6,8 Fl. Oz.</strong></p>"
           }
         },
         "collapsible_text_gMbnK4": {
           "type": "collapsible_text",
           "settings": {
             "title": "Ingrédients",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "content": "<p><strong>Formulé sans :</strong><br/><br/>Parabènes, SLS et phtalates.</p><p><strong>Chardon-Marie :</strong><br/><br/>Un puissant antioxydant reconnu pour sa capacité à améliorer et lisser l'apparence de la peau graisseuse.</p><p><strong>Extrait de feuille d’Uva-Ursi :</strong><br/><br/>Un ingrédient riche en antioxydants, issu de la plante busserole, qui aide à lisser les irrégularités de la peau.</p><p><strong>Glycérine :</strong><br/><br/>Un hydratant bien connu qui laisse la peau douce, lisse et souple.</p>"
           }
         },
         "collapsible_text_qWkjj9": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Utilisation",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Comment l’utiliser",
+            "content": "<p>1. Appliquez la crème fouettée sur l’ensemble du ventre, en insistant sur les zones que vous souhaitez raffermir visiblement.</p><p>2. Massez par mouvements circulaires jusqu’à absorption complète.</p><p>3. Laissez les actifs agir pendant la nuit.</p><p>4. Utilisez chaque soir pour des résultats optimaux.</p>"
           }
         },
         "collapsible_text_pjEJw4": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Après combien de temps les résultats apparaissent ?",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "Résultats cliniques",
+            "content": "<p>Nos formules sont soumises à des essais cliniques rigoureux réalisés sur des panels de femmes réelles. L'étude a démontré que <strong>GET DREAMY</strong> est :</p><p>✔️ Cliniquement prouvé pour raffermir visiblement la peau.<br/><br/>✔️ Cliniquement prouvé pour réduire l’apparence de la cellulite.<br/><br/>✔️ Cliniquement prouvé pour lisser visiblement les irrégularités de la peau.</p><p><em>Basé sur un essai clinique de 56 jours réalisé sur 30 participantes.</em></p>"
           }
         }
       },
