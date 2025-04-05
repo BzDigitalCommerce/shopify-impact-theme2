@@ -121,8 +121,8 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "de résultats visibles en 28 nuits",
-            "content": "",
+            "subheading": "résultats visibles en 28 nuits",
+            "content": "<p><em>Basé sur une enquête menée auprès de 142 clientes ayant utilisé GET DREAMY chaque soir pendant 4 semaines</em></p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
