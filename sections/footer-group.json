@@ -14,10 +14,25 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_wKh8FN": {
+          "type": "text",
+          "settings": {
+            "title": "Zyphor Cosmetics",
+            "content": "<p>Your skin deserves the best. We make it happen.</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
             "menu": "footer",
+            "show_menu_title": true
+          }
+        },
+        "links_7egq9x": {
+          "type": "links",
+          "settings": {
+            "menu": "quick-links",
             "show_menu_title": true
           }
         },
@@ -31,7 +46,9 @@
         }
       },
       "block_order": [
+        "text_wKh8FN",
         "links",
+        "links_7egq9x",
         "text"
       ],
       "settings": {
