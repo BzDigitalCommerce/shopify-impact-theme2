@@ -56,11 +56,143 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_fEJyFT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jq4Fmd": {
+          "type": "heading",
+          "settings": {
+            "text": "Offrez à votre peau tout le soin qu’elle mérite grâce à Zyphor !",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_VYFQWe": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Que diriez-vous de pouvoir prendre soin de votre peau grâce à des produits <strong>entièrement naturels</strong> et agréables à utiliser au quotidien ? Ça semble trop beau pour être vrai ?<br/><br/>Bienvenue chez <strong>Zyphor</strong>, la nouvelle référence des cosmétiques 100 % naturels et sensoriels !</p><p>Derrière Zyphor se cache une <strong>équipe passionnée de bien-être et de beauté naturelle</strong>. Nous avons créé notre marque pour répondre à un problème simple : il devenait de plus en plus difficile de trouver des soins de qualité, sans ingrédients douteux.</p><p>Pourquoi utiliser des produits remplis de composants chimiques quand il est <strong>possible de révéler la beauté naturelle de votre peau avec des ingrédients purs</strong> ?</p><p>Nous avons donc décidé de prendre les choses en main en lançant <strong>Zyphor, la boutique en ligne dédiée aux cosmétiques naturels</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jq4Fmd",
+        "richtext_VYFQWe"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_FVqnXm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YM49xj": {
+          "type": "heading",
+          "settings": {
+            "text": "Oubliez tout ce que vous pensiez savoir sur la beauté !",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_FhC867": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Pour cela, nous avons imaginé une <strong>large gamme de soins naturels pour le visage et le corps</strong>. Chaque ingrédient est soigneusement sélectionné, et chaque formule est testée avant sa mise en ligne.<br/><br/>Cela nous permet de garantir une <strong>qualité irréprochable, à la hauteur des exigences des femmes modernes</strong>.</p><p>Que vous cherchiez des <strong>soins hydratants, des rituels pour le visage ou encore des coffrets bien-être</strong>, vous trouverez forcément ce qui vous convient.<br/><br/>Vos proches ne manqueront pas de vous demander comment vous faites pour <strong>avoir une si belle peau… au naturel !</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YM49xj",
+        "richtext_FhC867"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_e4pCCM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BKrqrr": {
+          "type": "heading",
+          "settings": {
+            "text": "Les meilleurs soins naturels sont chez Zyphor",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_adhKnH": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nous travaillons avec des partenaires de confiance pour <strong>vous garantir le meilleur de la cosmétique naturelle</strong>. Cette relation directe nous permet aussi de vous proposer <strong>des prix justes toute l’année</strong>, sans compromis sur la qualité.</p><p>Qui a dit qu’il fallait se ruiner pour prendre soin de sa peau ? Pas nous !</p><p>Et comme on aime vous gâter, <strong>nous ajoutons régulièrement de nouveaux produits</strong> pour vous aider à prendre soin de votre corps avec amour.<br/><br/>Pensez à vous abonner à notre newsletter pour ne rien manquer et <strong>bénéficier d’offres exclusives</strong> !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BKrqrr",
+        "richtext_adhKnH"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_RWFy4L": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PfqCK9": {
+          "type": "heading",
+          "settings": {
+            "text": "Une question sur un produit ou une commande ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_CrFcqF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Toute l’équipe de <strong>Zyphor</strong> est là pour vous accompagner et répondre à vos questions dans les plus brefs délais.</p><p>Nous vous souhaitons un <strong>moment shopping tout en douceur</strong>, placé sous le signe de la nature et du bien-être.</p><p><strong>Naturellement vôtre,</strong><br/><br/><em>L’équipe Zyphor</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PfqCK9",
+        "richtext_CrFcqF"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "rich_text_XzFaEz",
-    "image_with_text_overlay_XxHYNf"
+    "image_with_text_overlay_XxHYNf",
+    "rich_text_fEJyFT",
+    "rich_text_FVqnXm",
+    "rich_text_e4pCCM",
+    "rich_text_RWFy4L"
   ]
 }
