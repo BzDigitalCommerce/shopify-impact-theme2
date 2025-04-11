@@ -47,6 +47,16 @@
         "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
         "disabled": false,
         "settings": {}
+      },
+      "10191866119664032810": {
+        "type": "shopify://apps/zoorix-sticky-atc/blocks/zoorix-head/16cf6adc-8b22-4e73-be2b-b93c1acde1da",
+        "disabled": false,
+        "settings": {
+          "home_product": "get-dreamy-creme-de-nuit-raffermissante",
+          "show_on_out_of_stock": true,
+          "blacklisted_products": [],
+          "blacklisted_collections": []
+        }
       }
     }
   },
