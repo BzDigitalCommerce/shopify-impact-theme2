@@ -111,7 +111,7 @@
         "text_color": "#1a1a1a",
         "heading_color": "#1a1a1a",
         "heading_gradient": "",
-        "logo_item_background": "#d9c3e5",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
@@ -147,21 +147,21 @@
             "heading_tag": "h2"
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#1a1a1a",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
         "liquid_iGYF3b": {
           "type": "liquid",
           "settings": {
             "liquid": "<div class=\"stock-alert\">\n  <span class=\"blinking-dot\"></span>\n  <span class=\"stock-text\">Plus que 4 en stock.</span>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    font-weight: bold;\n    font-size: 16px;\n    color: #000000;\n  }\n\n  .blinking-dot {\n    width: 10px;\n    height: 10px;\n    margin-right: 8px;\n    background-color: #FFB800;\n    border-radius: 50%;\n    animation: blink 1.2s infinite;\n    box-shadow: 0 0 8px rgba(255, 184, 0, 0.6);\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.2; }\n  }\n\n  .stock-text {\n    font-family: inherit;\n  }\n</style>"
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#d9c3e5",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
           }
         },
         "image_3bfpGU": {
@@ -217,8 +217,8 @@
       "block_order": [
         "image_693Qx6",
         "title",
-        "liquid_iGYF3b",
         "buy_buttons",
+        "liquid_iGYF3b",
         "image_3bfpGU",
         "liquid_46FnAm",
         "collapsible_text_n7ca9K",
