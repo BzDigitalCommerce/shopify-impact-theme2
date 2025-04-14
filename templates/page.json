@@ -48,13 +48,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/cosmetics_1.png",
-        "mobile_image": "shopify://shop_images/cosmetics_1_922b1b01-b3eb-4307-b813-3fc3ff862520.png",
+        "image": "shopify://shop_images/cosmetics_1_922b1b01-b3eb-4307-b813-3fc3ff862520.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 66
       }
     },
     "rich_text_fEJyFT": {
@@ -170,11 +169,23 @@
           "settings": {
             "content": "<p>Toute l’équipe de <strong>Zyphor</strong> est là pour vous accompagner et répondre à vos questions dans les plus brefs délais.</p><p>Nous vous souhaitons un <strong>moment shopping tout en douceur</strong>, placé sous le signe de la nature et du bien-être.</p><p><strong>Naturellement vôtre,</strong><br/><br/><em>L’équipe Zyphor</em></p>"
           }
+        },
+        "button_yLKKgp": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Découvrir",
+            "url": "shopify://products/get-dreamy-creme-de-nuit-raffermissante",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "heading_PfqCK9",
-        "richtext_CrFcqF"
+        "richtext_CrFcqF",
+        "button_yLKKgp"
       ],
       "settings": {
         "full_width": true,
