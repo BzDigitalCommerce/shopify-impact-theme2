@@ -195,7 +195,7 @@
         "collapsible_text_wwxTWF": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Ingrédients",
+            "title": "Ingrédients – Garantis Peaux sensibles",
             "content": "<p><strong>Formulé sans :</strong><br/><br/>Parabènes, SLS et phtalates.</p><p><strong>Chardon-Marie :</strong><br/><br/>Un puissant antioxydant reconnu pour sa capacité à améliorer et lisser l'apparence de la peau graisseuse.</p><p><strong>Extrait de feuille d’Uva-Ursi :</strong><br/><br/>Un ingrédient riche en antioxydants, issu de la plante busserole, qui aide à lisser les irrégularités de la peau.</p><p><strong>Glycérine :</strong><br/><br/>Un hydratant bien connu qui laisse la peau douce, lisse et souple.</p>"
           }
         },
@@ -455,8 +455,8 @@
         "heading_HqDcei": {
           "type": "heading",
           "settings": {
-            "text": "Raffermissez votre ventre & Lissez visiblement votre peau",
-            "heading_tag": "h4",
+            "text": "Un ventre transformé, une confiance retrouvée.",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -600,7 +600,7 @@
             "content": "<p>Notre crème GET DREAMY offre des résultats visibles dès les premières applications, avec des bienfaits raffermissants qui s’intensifient au fil du temps.</p><p>Sa formule unique hydrate en profondeur, raffermit et lisse la peau du ventre pendant la nuit, réduisant visiblement le relâchement cutané et redonnant élasticité et tonicité à la peau.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#d9c3e5",
+            "background": "#f2f2f2",
             "background_gradient": "",
             "text_color": "#1a1a1a",
             "text_gradient": "",
@@ -615,6 +615,126 @@
       "settings": {
         "full_width": false,
         "spacing": "none"
+      }
+    },
+    "media_with_text_LnQEQ6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_NbG7UG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/everart-image_2_5948a39d-ce59-4496-89b9-4e44f13844f8.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Expérimentez une transformation visible de votre ventre",
+            "content": "<p>Les signes de relâchement, de manque de fermeté ou de tonicité s’estompent nuit après nuit.</p><p>Notre soin agit pendant votre sommeil pour lisser, raffermir et redonner élasticité et douceur à la peau du ventre.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NbG7UG"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_BtPYdR": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_E9cPjq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GETDREAMY_4.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Essayez Zyphor en toute confiance avec notre garantie de remboursement 90 jours !",
+            "content": "<p>Les spécialistes de la peau, les dermatologues et nos clients en témoignent: Zyphor offre des résultats visibles !<br/><br/>Convaincus de son efficacité, nous vous proposons une garantie satisfait ou remboursé pendant 90 jours.<br/><br/>Si vous n’obtenez pas les résultats escomptés, nous vous remboursons intégralement.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#d9c3e5",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_E9cPjq"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "faq_QDrazJ": {
+      "type": "faq",
+      "blocks": {
+        "item_yWcJmx": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_qKCayn": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_EfEVn8": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_yWcJmx",
+        "item_qKCayn",
+        "item_EfEVn8"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     }
   },
@@ -631,6 +751,9 @@
     "image_with_text_overlay_GhbJkF",
     "image_with_text_overlay_rMH8QJ",
     "image_with_text_overlay_RqMhji",
-    "media_with_text_LXf6D9"
+    "media_with_text_LXf6D9",
+    "media_with_text_LnQEQ6",
+    "media_with_text_BtPYdR",
+    "faq_QDrazJ"
   ]
 }
