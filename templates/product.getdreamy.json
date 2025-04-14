@@ -691,29 +691,37 @@
         "item_yWcJmx": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Pourquoi acheter uniquement sur notre site ?",
+            "content": "<p>Notre crème raffermissante GET DREAMY est disponible exclusivement sur notre site officiel.<br/><br/>Les ventes sur des plateformes tierces, comme Amazon ou autres, peuvent concerner des copies de mauvaise qualité. Pour garantir des résultats visibles et une formule authentique, achetez uniquement sur notre boutique. Nous ne pouvons garantir l’efficacité ou la sécurité des produits achetés ailleurs.</p>"
           }
         },
         "item_qKCayn": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Comment l'utiliser ?",
+            "content": "<ul><li>Appliquez la crème fouettée sur l’ensemble du ventre, en insistant sur les zones que vous souhaitez raffermir visiblement.</li></ul><p></p><ul><li>Massez par mouvements circulaires jusqu’à absorption complète.</li></ul><p></p><ul><li>Laissez les actifs agir pendant la nuit.</li></ul><p></p><ul><li>Utilisez chaque soir pour des résultats optimaux.</li></ul>"
           }
         },
         "item_EfEVn8": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Contenance",
+            "content": "<p>200ml par pot.</p>"
+          }
+        },
+        "item_UTdWgc": {
+          "type": "item",
+          "settings": {
+            "title": "Après combien de temps vais-je voir des résultats ?",
+            "content": "<p>La plupart de nos utilisatrices remarquent une peau plus lisse, plus ferme et visiblement tonifiée dès les <strong>premières semaines</strong> d’utilisation.<br/><br/>Pour des résultats optimaux et durables, nous recommandons une <strong>application quotidienne pendant au moins 4 semaines</strong>, idéalement <strong>60 jours</strong>.</p>"
           }
         }
       },
       "block_order": [
         "item_yWcJmx",
         "item_qKCayn",
-        "item_EfEVn8"
+        "item_EfEVn8",
+        "item_UTdWgc"
       ],
       "settings": {
         "full_width": true,
