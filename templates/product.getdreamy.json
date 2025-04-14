@@ -353,7 +353,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "show_counter": false,
-        "desktop_image_effect": "fade",
+        "desktop_image_effect": "reveal",
         "image_position": "end",
         "background": "",
         "background_gradient": "",
@@ -625,7 +625,7 @@
           "settings": {
             "image": "shopify://shop_images/everart-image_2_5948a39d-ce59-4496-89b9-4e44f13844f8.png",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
