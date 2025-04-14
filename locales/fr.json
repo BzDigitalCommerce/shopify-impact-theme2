@@ -426,11 +426,11 @@
   },
   "shopify": {
     "links": {
-      "powered_by_shopify": "Expert in Cosmetics Since 2001"
+      "powered_by_shopify": "Expert en Cosmetics depuis 2001"
     },
     "errors": {
       "shop_404": {
-        "title": "Expert in Cosmetics Since 2001"
+        "title": "Expert en Cosmetics depuis 2001"
       }
     }
   }
