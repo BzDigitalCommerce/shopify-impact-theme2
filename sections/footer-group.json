@@ -18,21 +18,21 @@
           "type": "text",
           "settings": {
             "title": "Zyphor Cosmetics",
-            "content": "<p>Your skin deserves the best. We make it happen.</p>",
+            "content": "<p>Votre peau mérite ce qu’il y a de mieux. Nous le rendons possible.</p>",
             "enable_follow_on_shop": true
           }
         },
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "informations",
             "show_menu_title": true
           }
         },
         "links_7egq9x": {
           "type": "links",
           "settings": {
-            "menu": "quick-links",
+            "menu": "",
             "show_menu_title": true
           }
         },
@@ -43,13 +43,23 @@
             "content": "<p><strong>Service client</strong><br/>contact@zyphorcosmetics.com</p><p><strong>Horaires :</strong> Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
+        },
+        "newsletter_6BN4Eh": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Inscrivez-vous à notre newsletter",
+            "content": "<p>Inscrivez-vous avec votre adresse email pour recevoir des actualités et des offres exclusives.</p>"
+          }
         }
       },
       "block_order": [
         "text_wKh8FN",
         "links",
         "links_7egq9x",
-        "text"
+        "text",
+        "newsletter_6BN4Eh"
       ],
       "settings": {
         "show_social_media": true,
