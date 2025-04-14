@@ -245,26 +245,114 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "rich_text_CGAp4N": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ykGiG6": {
+          "type": "heading",
+          "settings": {
+            "text": "Elles en parlent le mieux",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ykGiG6"
+      ],
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_XUAgYD": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_RpLBkL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_bb772e00-7444-491c-915e-76d6bf3f08e7.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p><strong>Hélène T.</strong> Cliente vérifiée ✔️<br/>★★★★★</p><p>Aujourd’hui elle est plus tendue et douce. Même mon chéri m’a demandé ce que j'avais changé ! En 8 jours seulement</p>"
+          }
+        },
+        "item_djEJek": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_929d7b05-9809-47ff-b3ad-7d9f9beef6ce.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p><strong>Lauryne P.</strong> Cliente vérifiée ✔️<br/>★★★★★</p><p>Après 3 semaines, je n'en revien pas ! Ma peau est retendue, bien plus lisse. Je me sens enfin à l’aise dans mon corp</p>"
+          }
+        },
+        "item_6WfCGF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_466ab829-f4b9-4271-b2bc-64fd46a1362d.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p><strong>Laura D.</strong> Cliente vérifiée ✔️<br/>★★★★★</p><p>Maintenant, je le montre fièrement. La différence est flagrante, en 2 mois d'utilisations!! Après seulement 1 semaine, j'ai déjà remarquer les résultats </p>"
+          }
+        },
+        "item_AqmrUD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_3cea368f-7356-40b6-b601-522c7fdf6994.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p><strong>Sandrine F.</strong> Cliente vérifiée ✔️<br/>★★★★★</p><p>GET DREAMY a clairement raffermi tout ça. Mon ventre est plus plat visuellement, et ça se voit en photo ! Ma peau est méconnaisable</p>"
+          }
+        },
+        "item_XrkgEb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_fe9224a0-d6d3-48ec-b7e5-facb8c5ec2d2.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p><strong>Estelle G.</strong> Cliente vérifiée ✔️<br/>★★★★★</p><p>cette crème a changé la donne. Ma peau a retrouvé de l’élasticité et j’ai retrouvé confiance en moi! Merci</p>"
+          }
+        },
+        "item_Cbfpgz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_e06c0c97-a73e-403d-a681-e6d0eb91dd24.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<p><strong>Beatriz M.</strong> Cliente vérifiée ✔️<br/>★★★★★</p><p>Après 1 mois de GET DREAMY, ma peau est plus ferme, plus lisse et les plis ont quasiment disparu. C’est la première fois qu’une crème me donne de vrais résultats visibles</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_RpLBkL",
+        "item_djEJek",
+        "item_6WfCGF",
+        "item_AqmrUD",
+        "item_XrkgEb",
+        "item_Cbfpgz"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "heading_gradient": ""
       }
     }
   },
@@ -273,6 +361,7 @@
     "logo_list_LCJMHn",
     "image_with_text_overlay_K9Rxpb",
     "main",
-    "related-products"
+    "rich_text_CGAp4N",
+    "images_with_text_scrolling_XUAgYD"
   ]
 }
