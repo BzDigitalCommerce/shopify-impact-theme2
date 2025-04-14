@@ -12,17 +12,17 @@
     "image_with_text_overlay_8rQnHi": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "richtext_XiTeUc": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>★★★★★<em> </em>#1 Soin Raffermissant de Nuit en France !</p>"
-          }
-        },
         "heading_zyNJih": {
           "type": "heading",
           "settings": {
             "text": "Raffermissez votre ventre & Lissez  votre peau",
             "heading_tag": "h1"
+          }
+        },
+        "richtext_XiTeUc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>★★★★★<em> +100,000 clientes satisfaites</em></p>"
           }
         },
         "button_MmWNpK": {
@@ -38,8 +38,8 @@
         }
       },
       "block_order": [
-        "richtext_XiTeUc",
         "heading_zyNJih",
+        "richtext_XiTeUc",
         "button_MmWNpK"
       ],
       "settings": {
