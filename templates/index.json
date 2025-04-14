@@ -12,17 +12,17 @@
     "image_with_text_overlay_AChETB": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "heading_b49dDP": {
-          "type": "heading",
-          "settings": {
-            "text": "Des soins innovants pour une peau sublimée",
-            "heading_tag": "h2"
-          }
-        },
         "subheading_yj8nFj": {
           "type": "subheading",
           "settings": {
-            "text": "Zyphor GET-DREAMY Crème Raffermissante"
+            "text": "★★★★★ Plus de 100,000 clientes satisfaites"
+          }
+        },
+        "heading_b49dDP": {
+          "type": "heading",
+          "settings": {
+            "text": "Raffermissez votre ventre & Lissez visiblement votre peau",
+            "heading_tag": "h1"
           }
         },
         "button_UqYUVi": {
@@ -38,8 +38,8 @@
         }
       },
       "block_order": [
-        "heading_b49dDP",
         "subheading_yj8nFj",
+        "heading_b49dDP",
         "button_UqYUVi"
       ],
       "settings": {
@@ -48,7 +48,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/benefices_produit_mobile_7.png",
-        "mobile_text_position": "place-self-center-start text-start",
+        "mobile_text_position": "place-self-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
