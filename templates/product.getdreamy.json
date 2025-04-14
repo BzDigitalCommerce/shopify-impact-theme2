@@ -248,6 +248,12 @@
     "rich_text_CGAp4N": {
       "type": "rich-text",
       "blocks": {
+        "subheading_pW6LGp": {
+          "type": "subheading",
+          "settings": {
+            "text": "#1 Des Soins Raffermissant en France"
+          }
+        },
         "heading_ykGiG6": {
           "type": "heading",
           "settings": {
@@ -259,6 +265,7 @@
         }
       },
       "block_order": [
+        "subheading_pW6LGp",
         "heading_ykGiG6"
       ],
       "settings": {
@@ -354,6 +361,261 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "multi_column_hneRDG": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Mai97y": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/vid1OFF.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9TGgm6": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/vid4OFF.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_E4Wq9y": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/vid3OFF.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WhpJBt": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/vid2OFF.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Mai97y",
+        "item_9TGgm6",
+        "item_E4Wq9y",
+        "item_WhpJBt"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Des résultats concrets",
+        "content": "",
+        "background": "#d9c3e5",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_h8d78k": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style> .trustpilot-reviews-section { display: flex; justify-content: space-between; padding: 20px; background-color: #f9f9f9; border-radius: 8px; position: relative; }\n.trustpilot-summary { flex-basis: 20%; text-align: left; }\n.trustpilot-summary h2 { font-size: 24px; font-weight: bold; margin-bottom: 10px; }\n.trustpilot-stars img { width: 100px; margin-bottom: 10px; }\n.trustpilot-logo { width: 100px; margin-top: 10px; }\n.review-carousel { display: flex; flex-basis: 75%; overflow: hidden; position: relative; }\n.review-card { width: 270px; padding: 15px; margin-right: 15px; background-color: #fff; border: 1px solid #eaeaea; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease; flex-shrink: 0; }\n.review-card:hover { transform: scale(1.05); }\n.review-card img { width: 70px; }\n.review-card p { margin: 5px 0; font-size: 14px; }\n.review-card strong { font-weight: bold; }\n.nav-arrow { position: absolute; top: 50%; transform: translateY(-50%); background-color: #fff; border: 2px solid #ddd; border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: background-color 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); }\n.nav-arrow:hover { background-color: #f0f0f0; box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); }\n.arrow-left { left: -20px; }\n.arrow-right { right: -20px; }\n.nav-arrow::before { content: ''; display: block; border: solid #333; border-width: 0 3px 3px 0; padding: 5px; }\n.arrow-left::before { transform: rotate(135deg); }\n.arrow-right::before { transform: rotate(-45deg); }\n@media (max-width: 768px) { .trustpilot-reviews-section { flex-direction: column; padding: 10px; }\n.trustpilot-summary {\n  flex-basis: 100%;\n  text-align: center;\n  margin-bottom: 20px;\n}\n\n.trustpilot-stars img {\n  width: 80px;\n  margin: 0 auto;\n}\n\n.trustpilot-logo {\n  width: 80px;\n  margin-top: 5px;\n  margin: 0 auto;\n}\n\n.review-carousel {\n  flex-basis: 100%;\n  overflow-x: auto;\n  padding-bottom: 10px;\n}\n\n.review-card {\n  min-width: 85%;\n  margin-right: 10px;\n}\n\n.nav-arrow {\n  display: none;\n}\n\n} </style>\n<div class=\"trustpilot-reviews-section\"> <div class=\"trustpilot-summary\"> <h2>Excellent !</h2> <div class=\"trustpilot-stars\"> <!-- Modifier Lien Image ici pour les étoiles --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\"> </div> <p>Basé sur plus de 1809 avis</p> <!-- Modifier Lien Image ici pour logo --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/Trustpilot_logo.png?v=1727197788\" alt=\"Trustpilot logo\" class=\"trustpilot-logo\"> </div>\n<div class=\"review-carousel\" id=\"review-carousel\"> <!-- Modifier Avis ICI --> <div class=\"review-card\"> <!-- Modifier Lien Image ici pour les étoiles --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\"> <p><strong>Vérifié</strong></p> <p> Peau visiblement plus ferme </p> <p> J’étais sceptique au début, mais après deux semaines d'utilisation, mon ventre est déjà plus tonique. La crème s'applique facilement et sent très bon. </p> <p><strong> Julie P. </strong> - 15/03/2025 </p> </div> <!-- Modifier Avis ICI --> <div class=\"review-card\"> <!-- Modifier Lien Image ici pour les étoiles --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\"> <p><strong>Vérifié</strong></p> <p> Résultats rapides et texture agréable </p> <p> Je l'utilise tous les soirs après la douche. Ma peau est plus lisse et plus ferme au réveil. La texture fouettée est un vrai plus ! </p> <p><strong> Mélissa R. </strong> - 13/03/2025 </p> </div> <!-- Modifier Avis ICI --> <div class=\"review-card\"> <!-- Modifier Lien Image ici pour les étoiles --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\"> <p><strong>Vérifié</strong></p> <p> Idéal après grossesse </p> <p> Après mon accouchement, j’ai cherché une solution pour raffermir mon ventre. Cette crème a été super efficace sans aucune irritation. </p> <p><strong> Sabrina L. </strong> - 10/03/2025 </p> </div> <!-- Modifier Avis ICI --> <div class=\"review-card\"> <!-- Modifier Lien Image ici pour les étoiles --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\"> <p><strong>Vérifié</strong></p> <p> Une peau douce et plus tendue </p> <p> Dès la première semaine, ma peau était plus douce et rebondie. L’application est rapide, et l’odeur est très agréable. </p> <p><strong> Chloé M. </strong> - 09/03/2025 </p> </div> <!-- Modifier Avis ICI --> <div class=\"review-card\"> <!-- Modifier Lien Image ici pour les étoiles --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\"> <p><strong>Vérifié</strong></p> <p> Je recommande à 100 % </p> <p> J’ai essayé plusieurs crèmes raffermissantes, mais celle-ci est la seule qui a vraiment fonctionné. Effet visible dès la 1re semaine. </p> <p><strong> Claire F. </strong> - 07/03/2025 </p> </div> <!-- Modifier Avis ICI --> <div class=\"review-card\"> <!-- Modifier Lien Image ici pour les étoiles --> <img src=\"https://cdn.shopify.com/s/files/1/0891/0028/8264/files/stars-5.svg?v=1727197779\" alt=\"5 stars rating\"> <p><strong>Vérifié</strong></p> <p> Ma routine du soir préférée </p> <p> Je l’utilise chaque soir avant de dormir. Ma peau est hydratée, plus ferme et je me sens mieux dans mon corps. </p> <p><strong> Élodie T. </strong> - 05/03/2025 </p> </div>\n<!-- Flèches de navigation --> <button class=\"nav-arrow arrow-left\" onclick=\"scrollReviews(-1)\"></button> <button class=\"nav-arrow arrow-right\" onclick=\"scrollReviews(1)\"></button> </div>\n<script> const reviewCarousel = document.getElementById('review-carousel');\nfunction scrollReviews(direction) { const scrollAmount = 320; reviewCarousel.scrollBy({ left: direction * scrollAmount, behavior: 'smooth' }); } </script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_W3YNP4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HqDcei": {
+          "type": "heading",
+          "settings": {
+            "text": "Raffermissez votre ventre & Lissez visiblement votre peau",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_tFWAQW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>La puissance de <strong>Get Dreamy</strong> réside dans sa combinaison unique d’ingrédients raffermissants, ciblés et hautement efficaces :</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HqDcei",
+        "richtext_tFWAQW"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_GhbJkF": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_9AT4P3": {
+          "type": "heading",
+          "settings": {
+            "text": "Chardon-Marie",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_NUyVed": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Un puissant antioxydant reconnu pour sa capacité à améliorer et lisser l'apparence de la peau graisseuse.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9AT4P3",
+        "richtext_NUyVed"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/5_1a041a8a-1f86-47ee-ba59-6f749d59b714.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 43
+      }
+    },
+    "image_with_text_overlay_rMH8QJ": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_J7daaJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Extrait de feuille d’Uva-Ursi",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_fmYHyT": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Un ingrédient riche en antioxydants, issu de la plante busserole, qui aide à lisser les irrégularités de la peau.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J7daaJ",
+        "richtext_fmYHyT"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/6_fb9b761c-f65d-4483-bf58-6beceeb7e6b1.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 43
+      }
+    },
+    "image_with_text_overlay_RqMhji": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_jfAwci": {
+          "type": "heading",
+          "settings": {
+            "text": "Glycérine",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_hKgwr7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Un hydratant bien connu qui laisse la peau douce, lisse et souple.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jfAwci",
+        "richtext_hKgwr7"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/7_fab3f135-a85c-448b-966c-2379ae05be3d.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 43
+      }
+    },
+    "media_with_text_LXf6D9": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_RLKXN4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/everart-image_2.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Tout-en-un",
+            "content": "<p>Notre crème GET DREAMY offre des résultats visibles dès les premières applications, avec des bienfaits raffermissants qui s’intensifient au fil du temps.</p><p>Sa formule unique hydrate en profondeur, raffermit et lisse la peau du ventre pendant la nuit, réduisant visiblement le relâchement cutané et redonnant élasticité et tonicité à la peau.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#d9c3e5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_RLKXN4"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
@@ -362,6 +624,13 @@
     "image_with_text_overlay_K9Rxpb",
     "main",
     "rich_text_CGAp4N",
-    "images_with_text_scrolling_XUAgYD"
+    "images_with_text_scrolling_XUAgYD",
+    "multi_column_hneRDG",
+    "custom_liquid_h8d78k",
+    "rich_text_W3YNP4",
+    "image_with_text_overlay_GhbJkF",
+    "image_with_text_overlay_rMH8QJ",
+    "image_with_text_overlay_RqMhji",
+    "media_with_text_LXf6D9"
   ]
 }
