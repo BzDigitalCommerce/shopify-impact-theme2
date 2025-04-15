@@ -40,7 +40,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p><a href=\"/pages/contact\" title=\"Contactez-Nous\"><strong>Service</strong></a><strong> client</strong><br/>cliquez-ici</p><p><strong>Horaires :</strong> Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
+            "content": "<p><a href=\"/pages/contact\" title=\"Contactez-Nous\"><strong>Service</strong></a><strong> client : </strong>cliquez-ici</p><p><strong>Horaires :</strong> Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
         },
